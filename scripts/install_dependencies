@@ -1,4 +1,0 @@
-#!/bin/bash
-yum install -y httpd
-unzip zip1.zip
-mv zip1/*
